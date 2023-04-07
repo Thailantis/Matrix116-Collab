@@ -98,3 +98,9 @@ h1 {
     color: white;
     margin-bottom: 20px;
 }
+
+@media (max-width: 760px) {
+    .header-nav {
+        display: none;
+    }
+}
